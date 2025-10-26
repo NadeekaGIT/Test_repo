@@ -1,2 +1,1 @@
-hola
-world
+Today is a beautiful day
